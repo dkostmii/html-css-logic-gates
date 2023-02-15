@@ -1,0 +1,21 @@
+<svg
+	width="16"
+	height="16"
+	xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>
+			.background {
+				fill: #333;
+				stroke: none;
+			}
+
+			.dot {
+				fill: #381;
+				stroke: none;
+			}
+		</style>
+	</defs>
+	
+	<rect class="background" x="0" y="0" width="100%" height="100%" />
+	<rect class="dot" x="43.75%" y="43.75%" width="6.25%" height="6.25%" />
+</svg>
